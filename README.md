@@ -46,7 +46,7 @@ A Python bot that automatically scrapes free Udemy courses from Couponami/DiscUd
 
 4. **Run the bot:**
    ```bash
-   python "import io.py"
+   python "botcode.py"
    ```
    Or if you renamed it:
    ```bash
@@ -119,7 +119,7 @@ The bot supports these commands when sent in a private chat with the bot:
 
 ```
 udemy-free-courses-bot/
-├── import io.py          # Main bot script (rename to bot.py if preferred)
+├── botcode.py         # Main bot script (rename to bot.py if preferred)
 ├── requirements.txt      # Python dependencies
 ├── README.md            # This file
 ├── .gitignore          # Git ignore file
@@ -179,5 +179,6 @@ If you encounter any issues, please:
 ---
 
 **Note:** Remember to keep your bot token and channel ID private. Never commit them to GitHub!
+
 
 
