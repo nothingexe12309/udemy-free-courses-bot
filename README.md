@@ -26,7 +26,7 @@ A Python bot that automatically scrapes free Udemy courses from Couponami/DiscUd
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/udemy-free-courses-bot.git
+   git clone https://github.com/nothingexe12309/udemy-free-courses-bot.git
    cd udemy-free-courses-bot
    ```
 
@@ -179,4 +179,5 @@ If you encounter any issues, please:
 ---
 
 **Note:** Remember to keep your bot token and channel ID private. Never commit them to GitHub!
+
 
