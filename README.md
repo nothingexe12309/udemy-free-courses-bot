@@ -36,7 +36,7 @@ A Python bot that automatically scrapes free Udemy courses from Couponami/DiscUd
    ```
 
 3. **Configure the bot:**
-   - Open `import io.py` (or rename it to `bot.py`)
+   - Open `botcode.py` (or rename it to `bot.py`)
    - Edit the configuration section at the top:
      ```python
      TELEGRAM_BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
@@ -179,3 +179,4 @@ If you encounter any issues, please:
 ---
 
 **Note:** Remember to keep your bot token and channel ID private. Never commit them to GitHub!
+
